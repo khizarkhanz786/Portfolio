@@ -1,0 +1,226 @@
+[
+    {
+        "id": "1",
+        "name": "Neon Cyber Kicks",
+        "price": 149.99,
+        "category": "fashion",
+        "image": "https://source.unsplash.com/featured/?futuristic+sneakers",
+        "description": "High-top sneakers with LED programmable soles."
+    },
+    {
+        "id": "2",
+        "name": "Holographic Visor",
+        "price": 89.50,
+        "category": "accessories",
+        "image": "https://source.unsplash.com/featured/?futuristic+visor",
+        "description": "Augmented reality ready visor with HUD display."
+    },
+    {
+        "id": "3",
+        "name": "Quantum Watch",
+        "price": 299.00,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?smartwatch",
+        "description": "Smartwatch with quantum encryption and long battery life."
+    },
+    {
+        "id": "4",
+        "name": "Neural Headphones",
+        "price": 199.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?headphones",
+        "description": "Noise‑cancelling headphones adapting to brainwaves."
+    },
+    {
+        "id": "5",
+        "name": "Void Backpack",
+        "price": 120.00,
+        "category": "fashion",
+        "image": "https://source.unsplash.com/featured/?backpack",
+        "description": "Anti‑theft backpack with advanced storage."
+    },
+    {
+        "id": "6",
+        "name": "Levitating Planter",
+        "price": 45.00,
+        "category": "home",
+        "image": "https://source.unsplash.com/featured/?planter",
+        "description": "Zero‑gravity magnetic floating planter."
+    },
+    {
+        "id": "7",
+        "name": "Tech Runner Sneakers",
+        "price": 129.99,
+        "category": "fashion",
+        "image": "https://source.unsplash.com/featured/?running+sneakers",
+        "description": "Lightweight running sneakers with smart cushioning."
+    },
+    {
+        "id": "8",
+        "name": "Cyberpunk Jacket",
+        "price": 189.99,
+        "category": "fashion",
+        "image": "https://source.unsplash.com/featured/?leather+jacket",
+        "description": "Jacket with illuminated LED seams."
+    },
+    {
+        "id": "9",
+        "name": "Solar Smart Lamp",
+        "price": 39.99,
+        "category": "home",
+        "image": "https://source.unsplash.com/featured/?solar+lamp",
+        "description": "Eco‑friendly solar desk lamp."
+    },
+    {
+        "id": "10",
+        "name": "Wireless Speaker Pro",
+        "price": 99.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?wireless+speaker",
+        "description": "Portable Bluetooth speaker with deep bass."
+    },
+    {
+        "id": "11",
+        "name": "AI Smart Glasses",
+        "price": 249.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?smart+glasses",
+        "description": "Hands‑free smart glasses with voice assistant."
+    },
+    {
+        "id": "12",
+        "name": "Nano Drone",
+        "price": 159.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?drone",
+        "description": "Compact drone with auto‑follow mode."
+    },
+    {
+        "id": "13",
+        "name": "Vintage Gaming Console",
+        "price": 79.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?gaming+console",
+        "description": "Retro gaming with modern performance."
+    },
+    {
+        "id": "14",
+        "name": "Ergo Keyboard",
+        "price": 59.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?keyboard",
+        "description": "Ergonomic keyboard with wrist support."
+    },
+    {
+        "id": "15",
+        "name": "Wireless Mouse X",
+        "price": 29.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?mouse",
+        "description": "Precision wireless mouse with RGB."
+    },
+    {
+        "id": "16",
+        "name": "Smart Coffee Maker",
+        "price": 89.99,
+        "category": "home",
+        "image": "https://source.unsplash.com/featured/?coffee+maker",
+        "description": "Program your coffee with app control."
+    },
+    {
+        "id": "17",
+        "name": "Foldable Smart Desk",
+        "price": 229.99,
+        "category": "home",
+        "image": "https://source.unsplash.com/featured/?smart+desk",
+        "description": "Adjustable desk with digital controls."
+    },
+    {
+        "id": "18",
+        "name": "Hologram Projector",
+        "price": 399.00,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?projector",
+        "description": "3D hologram projector for home displays."
+    },
+    {
+        "id": "19",
+        "name": "Retro Vinyl Player",
+        "price": 149.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?vinyl+player",
+        "description": "Classic vinyl player with Bluetooth."
+    },
+    {
+        "id": "20",
+        "name": "Ultra Sunglasses",
+        "price": 79.50,
+        "category": "accessories",
+        "image": "https://source.unsplash.com/featured/?sunglasses",
+        "description": "Polarized sunglasses with UV protection."
+    },
+    {
+        "id": "21",
+        "name": "Smart Fitness Band",
+        "price": 59.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?fitness+band",
+        "description": "Track steps, heart rate, sleep and more."
+    },
+    {
+        "id": "22",
+        "name": "Magic Bottle",
+        "price": 19.99,
+        "category": "home",
+        "image": "https://source.unsplash.com/featured/?water+bottle",
+        "description": "Self‑cooling smart water bottle."
+    },
+    {
+        "id": "23",
+        "name": "Bluetooth Earbuds",
+        "price": 49.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?earbuds",
+        "description": "True wireless earbuds with charging case."
+    },
+    {
+        "id": "24",
+        "name": "Neon Cap",
+        "price": 24.99,
+        "category": "fashion",
+        "image": "https://source.unsplash.com/featured/?cap",
+        "description": "Futuristic cap with LED trims."
+    },
+    {
+        "id": "25",
+        "name": "Eco Lamp",
+        "price": 34.99,
+        "category": "home",
+        "image": "https://source.unsplash.com/featured/?lamp",
+        "description": "Eco‑friendly LED desk lamp."
+    },
+    {
+        "id": "26",
+        "name": "Gamer Headset",
+        "price": 59.99,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?gaming+headset",
+        "description": "Comfortable headset with surround sound."
+    },
+    {
+        "id": "27",
+        "name": "Smart Thermostat",
+        "price": 129.99,
+        "category": "home",
+        "image": "https://source.unsplash.com/featured/?thermostat",
+        "description": "Control home climate via app."
+    },
+    {
+        "id": "28",
+        "name": "Portable Projector",
+        "price": 249.00,
+        "category": "electronics",
+        "image": "https://source.unsplash.com/featured/?portable+projector",
+        "description": "Mini projector for movies anywhere."
+    }
+]

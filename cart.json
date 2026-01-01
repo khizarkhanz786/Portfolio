@@ -1,0 +1,11 @@
+[
+  {
+    "id": "3",
+    "name": "Quantum Watch",
+    "price": 299,
+    "category": "electronics",
+    "image": "https://source.unsplash.com/featured/?smartwatch",
+    "description": "Smartwatch with quantum encryption and long battery life.",
+    "qty": 1
+  }
+]
