@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SleekTask | Modern Task Manager</title>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="dark-mode">
+
+    <div class="app-container">
+        <!-- Header -->
+        <header>
+            <div class="logo-area">
+                <i class="fas fa-check-circle logo-icon"></i>
+                <h1 class="logo-text">SleekTask</h1>
+            </div>
+            
+            <div class="header-controls">
+                <div class="search-bar">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="task-search" placeholder="Search tasks...">
+                </div>
+                <button id="theme-toggle" class="icon-btn"><i class="fas fa-sun"></i></button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main>
+            <!-- Input Area -->
+            <div class="task-input-container">
+                <input type="text" id="new-task-input" placeholder="What needs to be done?" autocomplete="off">
+                <button id="add-task-btn" class="add-btn">
+                    <i class="fas fa-plus"></i> Add Task
+                </button>
+            </div>
+
+            <!-- Stats & Filters -->
+            <div class="task-controls">
+                <div class="task-stats">
+                    <span id="pending-count">0 tasks left</span>
+                </div>
+                
+                <div class="filters">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="pending">Pending</button>
+                    <button class="filter-btn" data-filter="completed">Completed</button>
+                </div>
+
+                <div class="actions">
+                    <button id="clear-completed" class="text-btn">Clear Completed</button>
+                </div>
+            </div>
+
+            <!-- Task List -->
+            <ul id="task-list" class="task-list">
+                <!-- Tasks will be injected here -->
+            </ul>
+            
+            <!-- Empty State (Hidden by default) -->
+            <div id="empty-state" class="empty-state hidden">
+                <i class="fas fa-clipboard-check"></i>
+                <p>No tasks found. Enjoy your day!</p>
+            </div>
+        </main>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast">Task Added</div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.0/Sortable.min.js"></script> <!-- Adding SortableJS for better DnD touch support -->
+    <script src="js/app.js"></script>
+</body>
+</html>
